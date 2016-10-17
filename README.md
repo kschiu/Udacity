@@ -1,2 +1,4 @@
-# Udemy
-Snippets from Intro Udemy classes
+# Udacity
+Snippets from Intro Udacity classes
+
+Currently taking: Intro to Machine Learning
